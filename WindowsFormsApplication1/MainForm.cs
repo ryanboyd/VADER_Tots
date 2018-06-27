@@ -164,14 +164,7 @@ namespace WindowsFormsApplication1
 
                         //read in the text file, convert everything to lowercase
                         string InputText = File.ReadAllText(fileName, SelectedEncoding).Trim();
-                        //readText = NewlineClean.Replace(readText, " ");
 
-
-                        //remove all the junk punctuation -- probably don't need for vader?
-                        //foreach (char c in PunctuationBox.Text)
-                        //{
-                        //    readText = readText.Replace(c, ' ');
-                        //}
 
 
 
