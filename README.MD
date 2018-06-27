@@ -1,0 +1,1 @@
+A simple, GUI-driven sentiment analysis program. Built around [VaderSharp](https://github.com/codingupastorm/vadersharp), which is a .NET port of Hutto & Gilbert's (2014) [VADER](https://github.com/cjhutto/vaderSentiment). Outputs sentence-level and document-level sentiment scores.
